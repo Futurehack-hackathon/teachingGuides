@@ -7,5 +7,14 @@
 "remoteUser": "node",
 "features": {
 	"ghcr.io/devcontainers/features/github-cli:1": {}
+},
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"streetsidesoftware.code-spell-checker",
+			"mhutchie.git-graph",
+			"Meezilla.json"
+		]
+	}
 }
 }
