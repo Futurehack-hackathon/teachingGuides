@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteaching_guides=self.webpackChunkteaching_guides||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"staff","permalink":"/blog/tags/staff","count":1},{"label":"blog","permalink":"/blog/tags/blog","count":1},{"label":"nontech","permalink":"/blog/tags/nontech","count":1}]')}}]);
