@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteaching_guides=self.webpackChunkteaching_guides||[]).push([[33],{1909:e=>{e.exports=JSON.parse('{"label":"nontech","permalink":"/teachingGuides/blog/tags/nontech","allTagsPath":"/teachingGuides/blog/tags","count":1}')}}]);

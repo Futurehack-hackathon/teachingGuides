@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteaching_guides=self.webpackChunkteaching_guides||[]).push([[620],{4334:e=>{e.exports=JSON.parse('{"permalink":"/teachingGuides/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

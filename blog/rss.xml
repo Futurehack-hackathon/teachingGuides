@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Futurehack Guides Blog</title>
-        <link>https://futurehack-hackathon.github.io/blog</link>
+        <link>https://futurehack-hackathon.github.io/teachingGuides/blog</link>
         <description>Futurehack Guides Blog</description>
         <lastBuildDate>Sun, 30 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://futurehack-hackathon.github.io/blog/first-blog-post</link>
-            <guid>https://futurehack-hackathon.github.io/blog/first-blog-post</guid>
+            <link>https://futurehack-hackathon.github.io/teachingGuides/blog/first-blog-post</link>
+            <guid>https://futurehack-hackathon.github.io/teachingGuides/blog/first-blog-post</guid>
             <pubDate>Sun, 30 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to futurehacks blog! This is where we will post updates, stories and other relevant IT and event related notices including staff internal discussions and what to come!]]></description>
             <content:encoded><![CDATA[<p>Welcome to futurehacks blog! This is where we will post updates, stories and other relevant IT and event related notices including staff internal discussions and what to come!</p><h1>Whats Cooking</h1><ul><li>Staff are internally testing and optimizing our docker container setups for testing.</li><li>Upcoming banner logo</li><li>Soldering Guidelines</li><li>Code checkers/Analyses</li></ul><h1>Staff quote of the day?</h1><p>Teach a chap how to code they gonna be pained for a lifetime. Teach AI to code? You have twice as many problems</p>]]></content:encoded>

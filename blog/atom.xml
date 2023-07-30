@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://futurehack-hackathon.github.io/blog</id>
+    <id>https://futurehack-hackathon.github.io/teachingGuides/blog</id>
     <title>Futurehack Guides Blog</title>
     <updated>2023-07-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://futurehack-hackathon.github.io/blog"/>
+    <link rel="alternate" href="https://futurehack-hackathon.github.io/teachingGuides/blog"/>
     <subtitle>Futurehack Guides Blog</subtitle>
-    <icon>https://futurehack-hackathon.github.io/img/favicon.ico</icon>
+    <icon>https://futurehack-hackathon.github.io/teachingGuides/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://futurehack-hackathon.github.io/blog/first-blog-post</id>
-        <link href="https://futurehack-hackathon.github.io/blog/first-blog-post"/>
+        <id>https://futurehack-hackathon.github.io/teachingGuides/blog/first-blog-post</id>
+        <link href="https://futurehack-hackathon.github.io/teachingGuides/blog/first-blog-post"/>
         <updated>2023-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to futurehacks blog! This is where we will post updates, stories and other relevant IT and event related notices including staff internal discussions and what to come!]]></summary>
         <content type="html"><![CDATA[<p>Welcome to futurehacks blog! This is where we will post updates, stories and other relevant IT and event related notices including staff internal discussions and what to come!</p><h1>Whats Cooking</h1><ul><li>Staff are internally testing and optimizing our docker container setups for testing.</li><li>Upcoming banner logo</li><li>Soldering Guidelines</li><li>Code checkers/Analyses</li></ul><h1>Staff quote of the day?</h1><p>Teach a chap how to code they gonna be pained for a lifetime. Teach AI to code? You have twice as many problems</p>]]></content>
